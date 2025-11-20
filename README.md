@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Daniel | @dmduffis
-- 🌱 I enjoy Web & Mobile Development particularly with React & React Native.
+- 🌱 I enjoy Web & Mobile Development
+- 🚀 Current tech stack includes: Next.js, React, React Native, TypeScript, Tailwind, Node, Express
 - 📫 You can reach me at daniel@vokality.com
 - ⚡ Fun fact: I speak five languages and I'm currently learning my sixth, Arabic!
